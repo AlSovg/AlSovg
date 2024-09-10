@@ -7,7 +7,7 @@ I am a student, driven by a curiosity for technology and a love for writing. My 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,sass,webpack,bootstrap, git, gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,sass,webpack,bootstrap,git,gitlab)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
