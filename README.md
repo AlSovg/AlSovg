@@ -2,15 +2,12 @@
 
 I am astudent, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-## 🚀 About Me
-
+![<AlSovg>'s Stats](https://github-readme-stats.vercel.app/api?username=<AlSovg>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=c#,js,html,css,scss, webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -21,7 +18,6 @@ I am astudent, driven by a curiosity for technology and a love for writing. My j
   - Building server-side applications with Node js, a powerful JS web framework.
   - Diving into PostgreSQL for efficient and scalable database management.
 
- ## 🏆 Achievements
 
 ## 📬 Get in Touch
 
