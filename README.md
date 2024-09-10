@@ -1,13 +1,13 @@
 # Hi, I'm <Alexander>! 👋
 
-I am astudent, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a student, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ![AlSovg's Stats](https://github-readme-stats.vercel.app/api?username=AlSovg&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,sass,webpack,bootstrap, git, gitlab)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
