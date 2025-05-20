@@ -31,7 +31,7 @@ I am a student, driven by a curiosity for technology and a love for writing. My 
 - **SOLID**
 ### Architectures
   - MVC (Model-View-Controller)
-  - FBA (Feature-Based Architecture)
+  - FSD (Feature-Sliced-Design)
 
 ## 🌱 Currently Exploring
 - **Frontend:**
